@@ -1,0 +1,10 @@
+Package: coxKM
+Version: 0.3
+Date: 2015-10-10
+Title: cox Kernel Machine SNP-set Association Test
+Author: Xinyi (Cindy) Lin, Qian Zhou
+Maintainer: Xinyi (Cindy) Lin <xinyilin@mail.harvard.edu>
+Depends: survival
+Description: SNP-set kernel association test for right-censored survival outcomes. coxKM is meant for common genetic variants only. coxKM tests for association between a SNP-set (made up of common variants) and a right-censored survival outcome. 
+License: GPL (version 2 or later)
+Packaged: 2015-10-13 02:08:40 UTC; xinyilin

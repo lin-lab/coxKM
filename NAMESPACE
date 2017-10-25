@@ -1,0 +1,3 @@
+useDynLib(coxKM, .registration = TRUE)
+export(coxKM)
+#export(coxKM, coxKM.SSD.OneSet, coxKM.SSD.OneSet_SetIndex, coxKM.SSD.All)
