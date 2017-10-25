@@ -1,6 +1,6 @@
 # coxKM (cox Kernel Machine)
 
-coxKM (cox Kernel Machine) is an R package for conducting SNP-set association tests for right-censored survival outcomes based on a kernel machine cox regression framework. coxKM is meant for common genetic variants only. coxKM tests for association between a SNP-set (made up of common variants) and a right-censored survival outcome. Software download , manual download .
+coxKM (cox Kernel Machine) is an R package for conducting SNP-set association tests for right-censored survival outcomes based on a kernel machine cox regression framework. coxKM is meant for common genetic variants only. coxKM tests for association between a SNP-set (made up of common variants) and a right-censored survival outcome. [Manual download](https://content.sph.harvard.edu/xlin/dat/coxKM-manual.pdf)
 
 ## References:
 
